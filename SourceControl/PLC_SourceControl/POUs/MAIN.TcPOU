@@ -6,6 +6,7 @@ VAR
 	//cmt 1
 	bTest_1 : BOOL;
 	bThuc: BOOL;
+	bThuc2: BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
