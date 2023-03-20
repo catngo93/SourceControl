@@ -10,7 +10,7 @@
 		</System>
 		<Plc>
 			<Project GUID="{58FF2782-B5C2-41A4-AA8C-F73ADE54F094}" Name="PLC_SourceControl" PrjFilePath="PLC_SourceControl\PLC_SourceControl.plcproj" TmcFilePath="PLC_SourceControl\PLC_SourceControl.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" SymbolicMapping="true">
-				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="PLC_SourceControl\PLC_SourceControl.tmc" TmcHash="{019A80FB-B78D-5D27-191C-B2B2115B2099}">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="PLC_SourceControl\PLC_SourceControl.tmc" TmcHash="{F4D6EC4B-BD49-8ABF-033A-91E9FDE1C1C5}">
 					<Name>PLC_SourceControl Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 					<Contexts>

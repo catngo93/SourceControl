@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.11">
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.10">
   <POU Name="MAIN" Id="{0901d40b-d0af-40a4-bd60-64fc45002868}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
@@ -7,6 +7,9 @@ VAR
 	bTest_1 : BOOL;
 	bThuc: BOOL;
 	bThuc2: BOOL;
+	
+	//cmt2
+	b_test_200323 : BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
